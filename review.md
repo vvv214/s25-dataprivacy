@@ -1,6 +1,6 @@
 ### Reviewing Guidelines
 
-These reviewing guidelines have been borrowed from a number of conferences, including the ACM CCS 2022, SIGMOD 2021 and others.
+These reviewing guidelines have been borrowed from a number of conferences, including the ACM CCS, SIGMOD and others.
 
 
 When you prepare your reviews, please consider that they serve two critical purposes: 
