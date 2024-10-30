@@ -1,4 +1,4 @@
-### Papers (Please sign up for presentation [here](https://docs.google.com/spreadsheets/d/1GPbWKpnKutALnCCEBFBn1HyshOLH8oInoGSfOl7_p9M/edit?usp=sharing))
+### Papers (Please sign up for presentation [here](https://docs.google.com/spreadsheets/d/1nMqxXDpUag_fidQJ4PgdoQFk1fZxkMlKFhXkmigGNd4/edit?usp=sharing))
 
 Privacy Attacks against Machine Learning
 

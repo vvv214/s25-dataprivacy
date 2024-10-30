@@ -1,22 +1,23 @@
 ### Project
 
 
+The goal of the project in this course is for you to independently explore data privacy, find a topic that excites you, and dive deeper into it. Through this process, you will learn how to conduct a comprehensive review, manage your time effectively, and write detailed reports.
 
-The goal of doing a project in this course is to explore data privacy by yourself and find something that interests you and make you feel really excited to investigate deeper.  During the process, you will learn and practice to do a comprehensive review, plan on your time to finish a project, and write reports.
+You are free to use any format for your project deliverables. Whether it is in LaTeX, Google Docs, or any other medium, the key is to convey your findings effectively. There are three types of projects you can choose from:
 
----
-You are not restricted to follow any format.  Latex or Google doc or anything that can convey the knowledge would suffice.  There are two categories of a project: 
- - research: a research project aims to introduce new ideas
- - evaluation: an evaluation project aims to do a comprehensive evaluation and comparison of a topic, e.g., summarize and evaluate all the existing algorithms (code) for a specific problem
- - application: applying existing techniques to a new domain/dataset, in a non-trivial way
+- **Research**: A research project aims to introduce new ideas or concepts.
+- **Evaluation**: An evaluation project involves conducting a thorough evaluation and comparison of a particular topic, such as summarizing and evaluating existing algorithms for a specific problem.
+- **Application**: This type of project focuses on applying existing techniques to a new domain or dataset in a meaningful and non-trivial way.
 
-If you aim to do a research project and you put a lot of effort into, say, organizing and cleaning existing methods that no one ever did before (which is also very important), but you only produce a minor new result, that is probably unfortunate in real research.  But it is fine in this class, as we can evaluate on both sides.  Similarly, if you find new insights during your evaluation, that is also great.  Please mark your contribution from two sides clearly.
+If you choose a research project and invest a lot of effort into organizing and analyzing existing methods—even if your final result is a minor new contribution—that is completely acceptable for this course. Similarly, finding new insights during an evaluation project is highly valued. Please make sure to clearly outline your contributions from both perspectives.
 
---- 
+You can work individually or in a group of up to two people, but note that the expected amount of work will double for a group project. Group members will receive the same grade. There is no preference from my side regarding project format, topic, or whether you work alone or in a group.
 
-You are allowed to work individually or form a group of at most two, but keep in mind the expected amount of work will also double if you work in a group.  Students in a group will be given the same grade.  There is no preference from my side on the research format, topics, or whether you work individually or in a group.
+A successful project will include a well-thought-out proposal (your topic may evolve, but the more planning you do early on, the better), a comprehensive survey of related work, and thorough execution. There are three key milestones for the project:
 
-A good project consists of a good proposal (topic evolves as the project goes on, but the more planning you do at this stage, the better), a comprehensive survey of existing work within the topic, and a complete execution.  At any stage, you are very welcome to send your plan or draft to the instructor or TA for feedbacks to keep yourself on track.  
+- **Proposal**: A detailed project proposal outlining your topic, objectives, and plan of action. This will help define your focus and get early feedback.
+- **Poster**: A visual summary of your work, presented towards the end of the course, to communicate your findings effectively to your peers.
+- **Final Report**: A comprehensive written report that documents your entire project, including your methodology, results, and insights. At any stage, you are encouraged to seek feedback from the instructor or TA to ensure you stay on track.
 
 ---
 
