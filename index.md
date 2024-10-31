@@ -20,7 +20,7 @@ How can we learn from data while protecting individuals' privacy? This course ad
 ## Grading: 
 - [Paper presentation](papers.md) (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min Q&A).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here](https://docs.google.com/spreadsheets/d/1nMqxXDpUag_fidQJ4PgdoQFk1fZxkMlKFhXkmigGNd4/edit?usp=sharing) to register.
 - Cyber Chat (10%): Each student investigate a related topic and make recordings of 5min.
-- X assignments (20%) for theory (proofs) and practice (programming)
+- X (X=assignments (20%) for theory (proofs) and practice (programming)
 - [Project](project.md) (solo or a group of 2: 50%): Click [here](https://docs.google.com/spreadsheets/d/1wXxl8X76yts2WaMT8zlAf-Cl8mwj8l64WlhGF9TECfg/edit?usp=sharing) to register your team with a tentative title.  If desired, teams can utilize office hours to get feedbacks on the project.  Students need to submit project proposals (15%), present a poster (15%), and submit your final report (20%).
 - Grading Scale: We use the [UVA default Grading Basis](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=1153c16fdba41f444f32fb671d961934)
 
@@ -28,21 +28,22 @@ How can we learn from data while protecting individuals' privacy? This course ad
 
 
 ## Schedule (tentative, subject to change), we will meet in-person 
+
 | Week | Dates           | Monday                         | Wednesday                                            |
 | ---- | --------------- | ------------------------------ | ---------------------------------------------------- |
 | 1    | Jan 13 - Jan 17 | Intro                          | Privacy Attacks                                      |
 | 2    | Jan 20 - Jan 24 | Privacy Attacks                | Privacy Attacks                                      |
 | 3    | Jan 27 - Jan 31 | Privacy Attacks                | Privacy Attacks                                      |
-| 4    | Feb 3 - Feb 7   | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**HW 1 Due**)            |
+| 4    | Feb 3  - Feb 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**HW 1 Due**)        |
 | 5    | Feb 10 - Feb 14 | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
 | 6    | Feb 17 - Feb 21 | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
-| 7    | Feb 24 - Feb 28 | Student-led Presentation       | Student-led Presentation (**HW 2 Due**)                  |
-| 8    | Mar 3 - Mar 7   | Spring break                   | Spring break                                         |
+| 7    | Feb 24 - Feb 28 | Student-led Presentation       | Student-led Presentation (**HW 2 Due**)              |
+| 8    | Mar 3  - Mar 7  | Spring break                   | Spring break                                         |
 | 9    | Mar 10 - Mar 14 | Student-led Presentation       | Student-led Presentation                             |
-| 10   | Mar 17 - Mar 21 | Student-led Presentation       | Student-led Presentation (**Cyber Chat Due**)            |
+| 10   | Mar 17 - Mar 21 | Student-led Presentation       | Student-led Presentation (**Cyber Chat Due**)        |
 | 11   | Mar 24 - Mar 28 | Cyber Chat Discussion          | Cyber Chat Discussion                                |
-| 12   | Mar 31 - Apr 4  | Student-led Presentation       | Student-led Presentation (**Project Proposal Due**)      |
-| 13   | Apr 7 - Apr 11  | Student-led Presentation       | Student-led Presentation                             |
+| 12   | Mar 31 - Apr 4  | Student-led Presentation       | Student-led Presentation (**Project Proposal Due**)  |
+| 13   | Apr 7  - Apr 11 | Student-led Presentation       | Student-led Presentation                             |
 | 14   | Apr 14 - Apr 18 | Student-led Presentation       | Student-led Presentation                             |
 | 15   | Apr 21 - Apr 25 | Work on Poster                 | Work on Final Project (**Final Project Poster Due**) |
 | 16   | Apr 28 - Apr 30 | Poster Session                 | No Class (**Final Project Report Due**)              |
