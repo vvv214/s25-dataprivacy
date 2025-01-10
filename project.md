@@ -22,9 +22,9 @@ A successful project will include a well-thought-out proposal (your topic may ev
 ---
 
 Some ideas (and you are very welcome to come up with your own idea):
- - Evaluate/benchmark existing methods for differentially private machine learning
+ - Evaluate/benchmark existing attacks or methods for differentially private machine learning
  - Incorporate public information during differentially private data release 
- - Differential privacy into new machine learning algorithms (I am not an expert of machine learning; I only know image CNN, NLP, GNN; if you know more and want to apply differential privacy to some machine learning paradigm that no one did before, that would be great)
+ - Differential privacy into new machine learning algorithms
  - Privacy attacks of new machine learning algorithms
  - Generating differentially private code automatically
  - Building a differentially private system (e.g., an SQL engine or a machine learning training system)

@@ -9,20 +9,22 @@ How can we learn from data while protecting individuals' privacy? This course ad
 - Co-Instructor: [Xiaochen Li](https://xiaochenli-w.github.io/)
 - Location: Rice 340
 - Time: Monday and Wednesday 12:30pm - 1:45pm
-- TA: TBD
-- Discussion: [Piazza](https://piazza.com/virginia/spring2025/cs6501)
+- TA: [Yan Pang](https://py85252876.github.io/)
+- Discussion: [Piazza](https://piazza.com/class/m5o8xxf0t6p4k0) from [Canvas](https://canvas.its.virginia.edu/courses/130855)
 - Office Hour
-  - Tianhao: TBD
+  - Tianhao (Rice 506): Monday and Wednesday 1:45pm - 2:45pm
+  - Xiaochen (Rice 542): Thursday and Friday 1pm - 2pm
+  - Yan (Rice 542): Tuesday 2 - 3pm
+  - (you can always email to request additional meeting or zoom meeting)
 - [Policy](policy.md)
 
 
 
 ## Grading: 
-- [Paper presentation](papers.md) (20%): During the semester, each student will present two papers, each for 15 minutes.  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here](https://docs.google.com/spreadsheets/d/1nMqxXDpUag_fidQJ4PgdoQFk1fZxkMlKFhXkmigGNd4/edit?usp=sharing) to register.
-- Cyber Chats (10%): Each student investigates two related topics and make recordings each of 5min.
-- X (X=2 or 3) assignments (20%) for theory (proofs) and practice (programming)
-- Quiz
-- [Project](project.md) (50%): Click [here](https://docs.google.com/spreadsheets/d/1wXxl8X76yts2WaMT8zlAf-Cl8mwj8l64WlhGF9TECfg/edit?usp=sharing) to register your project with a tentative title.  Students are encouraged utilize office hours to get feedbacks on the project.  Students need to submit project proposals (15%), present a poster (15%), and submit your final report (20%).
+- [Paper presentation](papers.md) (30%): During the semester, each student will present two papers, each for 15 minutes.  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here](https://docs.google.com/spreadsheets/d/1nMqxXDpUag_fidQJ4PgdoQFk1fZxkMlKFhXkmigGNd4/edit?usp=sharing) to register.
+- Cyber Chats (10%): Each student submits two video recordings each of 5min. The video can investigates a related paper or social event.
+- Quiz (20%): There will be four in-class quizes. 
+- [Project](project.md) (40%): Click [here](https://docs.google.com/spreadsheets/d/1wXxl8X76yts2WaMT8zlAf-Cl8mwj8l64WlhGF9TECfg/edit?usp=sharing) to register your project with a tentative title.  Students are encouraged utilize office hours to get feedbacks on the project.  Students need to submit project proposals (15%), present a poster (15%), and submit your final report (20%).
 - Grading Scale: We use the [UVA default Grading Basis](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=1153c16fdba41f444f32fb671d961934)
 
 
@@ -31,7 +33,7 @@ How can we learn from data while protecting individuals' privacy? This course ad
 | Week | Dates           | Monday                         | Wednesday                                            |
 | ---- | --------------- | ------------------------------ | ---------------------------------------------------- |
 | 1    | Jan 13 - Jan 17 | Intro                          | Privacy Attacks                                      |
-| 2    | Jan 20 - Jan 24 | Privacy Attacks                | Privacy Attacks                                      |
+| 2    | Jan 20 - Jan 24 | MLK (no class)                 | Privacy Attacks                                      |
 | 3    | Jan 27 - Jan 31 | Privacy Attacks                | Privacy Attacks                                      |
 | 4    | Feb 3  - Feb 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**HW 1 Due**)        |
 | 5    | Feb 10 - Feb 14 | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
