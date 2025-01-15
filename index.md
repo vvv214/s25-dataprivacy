@@ -1,7 +1,6 @@
 
 # Data Privacy (Spring 2025)
 
-**Note: Under construction. This is a direct copy of the Spring 2022 offering. Everything may change dramatically.** 
 How can we learn from data while protecting individuals' privacy? This course addresses that question, starting with privacy attacks and progressing to rigorous, state-of-the-art solutions, such as differential privacy. We will cover both theoretical foundations and practical challenges involved in real-world applications. **Prerequisites** for this course include a basic understanding of machine learning (e.g., knowledge of how large language models work), proficiency in coding (e.g., Python), and familiarity with reading and writing algorithmic proofs that involve probability.
 
 
@@ -21,9 +20,9 @@ How can we learn from data while protecting individuals' privacy? This course ad
 
 
 ## Grading: 
-- Paper presentation (30%): During the semester, each student will present two papers, each for 15 minutes.  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Students need to email me about the paper title to get an approval first.  Click [here](https://docs.google.com/spreadsheets/d/1nMqxXDpUag_fidQJ4PgdoQFk1fZxkMlKFhXkmigGNd4/edit?usp=sharing) to register.
+- Paper presentation (30%): During the semester, each student will present two papers, each for 15 minutes, or one paper for 30 minutes.  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Students need to email me about the paper title to get an approval first.  Click [here](https://docs.google.com/spreadsheets/d/1nMqxXDpUag_fidQJ4PgdoQFk1fZxkMlKFhXkmigGNd4/edit?usp=sharing) to register.
 - Cyber Chats (10%): Each student submits two video recordings each of 5min. The video can investigates a related paper or social event.
-- Quiz (20%): There will be four in-class quizes. 
+- Quiz (20%): There will be two in-class quizes. 
 - [Project](project.md) (40%): Click [here](https://docs.google.com/spreadsheets/d/1wXxl8X76yts2WaMT8zlAf-Cl8mwj8l64WlhGF9TECfg/edit?usp=sharing) to register your project with a tentative title.  Students are encouraged utilize office hours to get feedbacks on the project.  Students need to submit project proposals (10%), present a poster (15%), and submit your final report (15%).
 - Grading Scale: We use the [UVA default Grading Basis](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=1153c16fdba41f444f32fb671d961934)
 
@@ -34,20 +33,20 @@ How can we learn from data while protecting individuals' privacy? This course ad
 | ---- | --------------- | ------------------------------ | ---------------------------------------------------- |
 | 1    | Jan 13 - Jan 17 | Intro                          | Privacy Attacks                                      |
 | 2    | Jan 20 - Jan 24 | MLK (no class)                 | Privacy Attacks                                      |
-| 3    | Jan 27 - Jan 31 | Privacy Attacks    (**Quiz 1**)| Privacy Attacks                                      |
-| 4    | Feb 3  - Feb 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**Cyber Chat 1 Due**)|
-| 5    | Feb 10 - Feb 14 | Cyber Chat Discussion          | Privacy Enhancing Technologies                       |
-| 6    | Feb 17 - Feb 21 | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**Quiz 2**)          |
-| 7    | Feb 24 - Feb 28 | Spring break                   | Spring break                                         |
-| 8    | Mar 3  - Mar 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**Quiz 3**)          |
-| 9    | Mar 10 - Mar 14 | Student-led Presentation       | Student-led Presentation                             |
-| 10   | Mar 17 - Mar 21 | Student-led Presentation       | Student-led Presentation   (**Project Proposal Due**)|
+| 3    | Jan 27 - Jan 31 | Privacy Attacks                | Privacy Attacks                                      |
+| 4    | Feb 3  - Feb 7  | Privacy Enhancing Technologies | No Class                                 (**Quiz 1**)|
+| 5    | Feb 10 - Feb 14 | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
+| 6    | Feb 17 - Feb 21 | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
+| 7    | Feb 24 - Feb 28 | Privacy Enhancing Technologies | No Class                                 (**Quiz 2**)|
+| 8    | Mar 3  - Mar 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**Cyber Chat 1 Due**)|
+| 9    | Mar 10 - Mar 14 | Spring break                   | Spring break                                         |
+| 10   | Mar 17 - Mar 21 | Cyber Chat Discussion          | Student-led Presentation   (**Project Proposal Due**)|
 | 11   | Mar 24 - Mar 28 | Student-led Presentation       | Student-led Presentation                             |
-| 12   | Mar 31 - Apr 4  | Student-led Presentation       | Student-led Presentation       (**Quiz 4**)          |
+| 12   | Mar 31 - Apr 4  | Student-led Presentation       | Student-led Presentation       (**Cyber Chat 2 Due**)|
 | 13   | Apr 7  - Apr 11 | Student-led Presentation       | Student-led Presentation                             |
-| 14   | Apr 14 - Apr 18 | Student-led Presentation       | Student-led Presentation       (**Cyber Chat 2 Due**)|
-| 15   | Apr 21 - Apr 25 | Cyber Chat Discussion          | Work on Final Project  (**Final Project Poster Due**)|
-| 16   | Apr 28 - Apr 30 | Poster Session                 | No Class               (**Final Project Report Due**)|
+| 14   | Apr 14 - Apr 18 | Student-led Presentation       | Student-led Presentation     (**Project Poster Due**)|
+| 15   | Apr 21 - Apr 25 | Cyber Chat Discussion          | Work on Final Project                                |
+| 16   | Apr 28 - Apr 30 | Poster Session                 | No Class                     (**Project Report Due**)|
 
 
 
