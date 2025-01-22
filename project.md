@@ -1,4 +1,4 @@
-### Project
+## Project
 
 
 The goal of the project in this course is for you to independently explore data privacy, find a topic that excites you, and dive deeper into it. Through this process, you will learn how to conduct a comprehensive review, manage your time effectively, and write detailed reports.
