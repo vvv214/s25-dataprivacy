@@ -21,7 +21,7 @@ How can we learn from data while protecting individuals' privacy? This course ad
 - [Paper presentation](papers.md) (30%): During the semester, each student will present two papers, each for 15 minutes, or one paper for 30 minutes.  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Students need to email me about the paper title to get an approval first.  
 - [Cyber Chats](chats.md) (10%): Each student submits two video recordings each of 5min. The video can investigates a related paper or social event.
 - Quiz (20%): There will be two in-class quizes.
-- [Project](project.md) (40%):   Students are encouraged utilize office hours to get feedbacks on the project.  Students need to submit project proposals (10%), present a poster (15%), and submit your final report (15%).
+- [Project](project.md) (40%):   Students are encouraged utilize office hours to get feedbacks on the project.  Students need to submit project proposals (18%), present a poster (12%), and submit your final report (10%).
 - Grading Scale: We use the [UVA default Grading Basis](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=1153c16fdba41f444f32fb671d961934)
 
 ## Schedule (tentative, subject to change), we will meet in-person. Recordings can be found on [Canvas](https://canvas.its.virginia.edu/courses/130855/external_tools/9) (click 'Cloud Recordings')
@@ -32,10 +32,10 @@ How can we learn from data while protecting individuals' privacy? This course ad
 | 2    | Jan 20 - Jan 24 | MLK (no class)                 | Privacy Attacks                                      |
 | 3    | Jan 27 - Jan 31 | Privacy Attacks                | No Class                                 (**Quiz 1**)|
 | 4    | Feb 3  - Feb 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
-| 5    | Feb 10 - Feb 14 | Privacy Enhancing Technologies | Privacy Enhancing Technologies (**Cyber Chat 1 Due**)|
+| 5    | Feb 10 - Feb 14 | Privacy Enhancing Technologies | Privacy Enhancing Technologies|
 | 6    | Feb 17 - Feb 21 | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
 | 7    | Feb 24 - Feb 28 | Privacy Enhancing Technologies | No Class                                 (**Quiz 2**)|
-| 8    | Mar 3  - Mar 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies                       |
+| 8    | Mar 3  - Mar 7  | Privacy Enhancing Technologies | Privacy Enhancing Technologies   (**Cyber Chat 1 Due**)                     |
 | 9    | Mar 10 - Mar 14 | Spring break                   | Spring break                                         |
 | 10   | Mar 17 - Mar 21 | Cyber Chat Discussion          | Student-led Presentation   (**Project Proposal Due**)|
 | 11   | Mar 24 - Mar 28 | Student-led Presentation       | Student-led Presentation                             |

@@ -22,25 +22,24 @@ permalink: /paper/
 - After the presentation, students are encouraged to talk to the instructor to get feedbacks.
 
 
-## Paper Presentation Assessment Criteria (Total: 15 points)
+### Paper Presentation Assessment Criteria (Total: 15 points)
 
-| Criteria                                      | Max Points |  
+| Criteria                                      | Points |  
 |----------------------------------------------|-------------|  
 | **Pre-Presentation Tasks**                   |             |  
-| Submit presentation slides two days in advance | 1 point   |  
+| Submit presentation slides two days in advance | 1    |  
 | **Clarity of Communication**                 |             |  
-| Structure of presentation (logical flow)     | 1 points    |  
-| Quality of presentation visuals              | 1 points  |  
-| Delivery (clarity, eye-contact, no-reading)  | 3 points    |  
+| Structure of presentation (logical flow)     | 1     |  
+| Quality of presentation visuals              | 1   |  
+| Delivery (clarity, eye-contact, no-reading)  | 3     |  
 | **Content**                                  |             |  
-| Content coverage (background, motivation, method) | 3 points   |  
-| Evaluation of strengths and weaknesses        | 2 points    |  
-| Technical depth (clarity of technical concepts) | 1 point    |  
-| Discussion of implications and future work    | 1 point     |  
+| Content coverage (background, motivation, method) | 3    |  
+| Evaluation of strengths and weaknesses        | 2     |  
+| Technical depth (clarity of technical concepts) | 1     |  
+| Discussion of implications and future work    | 1      |  
 | **Engagement and Interaction**               |             |  
-| Ask two questions to class                   | 1 point     |  
+| Ask two questions to class                   | 1      |  
 | **Pacing and Time Management**               |             |  
-| Adherence to time limit (not rushed/dragging)| 1 points  |  
-| **Total (for 1 paper)**                      | **15 points**  |  
-| **Total (for 2 papers)**                     | **30 points** |  
+| Adherence to time limit (not rushed/dragging)| 1   |  
+| **Total (score doubled if presenting 1 paper)**                      | **15**  |  
 
