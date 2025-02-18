@@ -16,13 +16,13 @@ You can work individually or in a group of up to two people, but note that the e
 
 Some ideas (and you are very welcome to come up with your own idea):
 
- - Evaluate/benchmark existing attacks or methods for differentially private machine learning
- - Incorporate public information during differentially private data release 
- - Differential privacy into new machine learning algorithms
- - Privacy attacks of new machine learning algorithms
- - Generating differentially private code automatically
- - Building a differentially private system (e.g., an SQL engine or a machine learning training system)
- - Interplay between differential privacy and fairness or poison attacks
+- Evaluate/benchmark existing attacks or methods for differentially private machine learning
+- Incorporate public information during differentially private data release
+- Differential privacy into new machine learning algorithms
+- Privacy attacks of new machine learning algorithms
+- Generating differentially private code automatically
+- Building a differentially private system (e.g., an SQL engine or a machine learning training system)
+- Interplay between differential privacy and fairness or poison attacks
 
 A successful project will include a well-thought-out proposal (your topic may evolve, but the more planning you do early on, the better), a comprehensive survey of related work, and thorough execution. There are three key milestones/deliverables for the project: **Proposal**, **Poster**, and **Final Report**.
 

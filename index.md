@@ -3,7 +3,7 @@
 
 ## Course Overview
 
-How can we harness the power of data while protecting individual privacy? This course dives into one of the most critical challenges of our time by exploring privacy threats and cutting-edge solutions. Together, we’ll investigate privacy attacks, analyze their implications, and build a strong foundation in state-of-the-art techniques like **differential privacy**. 
+How can we harness the power of data while protecting individual privacy? This course dives into one of the most critical challenges of our time by exploring privacy threats and cutting-edge solutions. Together, we’ll investigate privacy attacks, analyze their implications, and build a strong foundation in state-of-the-art techniques like **differential privacy**.
 
 This course is designed to balance theory with practice. You’ll engage with real-world problems, develop practical skills, and explore how privacy-preserving methods are applied in diverse fields. Through projects, quizzes, and collaborative discussions, you’ll gain both technical expertise and a nuanced understanding of the ethical dimensions of data privacy.
 
