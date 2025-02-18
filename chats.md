@@ -27,7 +27,7 @@ permalink: /chats/
 
     - Topic relates broadly to data privacy (excluding data breach incidents etc). Topics for cyber chat 2 should be different from cyber chats 1 from all students.
 
-3. **Free of Burden to Access (1 Point)**  
+3. **Access (1 Point)**  
 
     - Video link is easily accessible without additional permissions issues. Previously many students publish Google Drive links not properly shared/configured.
 

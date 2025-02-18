@@ -1,12 +1,38 @@
 
 # Data Privacy (Spring 2025)
 
-How can we learn from data while protecting individuals' privacy? This course addresses that question, starting with privacy attacks and progressing to rigorous, state-of-the-art solutions, such as differential privacy. We will cover both theoretical foundations and practical challenges involved in real-world applications. **Prerequisites** for this course include a basic understanding of machine learning (e.g., knowledge of how large language models work), proficiency in coding (e.g., Python), and familiarity with reading and writing algorithmic proofs that involve probability.
+## Course Overview
 
-- Instructor: [Tianhao Wang](https://tianhao.wang)
-- Co-Instructor: [Xiaochen Li](https://xiaochenli-w.github.io/)
+How can we harness the power of data while protecting individual privacy? This course dives into one of the most critical challenges of our time by exploring privacy threats and cutting-edge solutions. Together, we’ll investigate privacy attacks, analyze their implications, and build a strong foundation in state-of-the-art techniques like **differential privacy**. 
+
+This course is designed to balance theory with practice. You’ll engage with real-world problems, develop practical skills, and explore how privacy-preserving methods are applied in diverse fields. Through projects, quizzes, and collaborative discussions, you’ll gain both technical expertise and a nuanced understanding of the ethical dimensions of data privacy.
+
+## What You’ll Gain
+
+- A comprehensive understanding of privacy challenges in data science and machine learning.
+- Hands-on experience with tools and techniques for designing privacy-preserving systems.
+- The ability to critically evaluate algorithms and articulate insights through projects and presentations.
+
+## Who Should Enroll?
+
+This course is ideal for students curious about the intersection of **data science**, **ethics**, and **security**. To succeed, you should have:
+
+- A basic understanding of machine learning (e.g., how large language models work).
+- Proficiency in Python programming.
+- Familiarity with algorithmic proofs involving probability.
+
+## Why Take This Course?
+
+Data privacy is not just a technical challenge—it’s a societal imperative. By the end of this course, you’ll be equipped to tackle complex privacy issues in academic research or industry settings. Whether your goal is to innovate in artificial intelligence or contribute to policy-making, this course will provide the tools and insights necessary to make a meaningful impact.
+
+Let’s embark on this exciting journey together!
+
+## Course Info
+
 - Location: Rice 340
 - Time: Monday and Wednesday 12:30pm - 1:45pm
+- Instructor: [Tianhao Wang](https://tianhao.wang)
+- Co-Instructor: [Xiaochen Li](https://xiaochenli-w.github.io/)
 - TA: [Yan Pang](https://py85252876.github.io/)
 - Discussion: [Piazza](https://piazza.com/class/m5o8xxf0t6p4k0) from [Canvas](https://canvas.its.virginia.edu/courses/130855)
 - Office Hour
@@ -15,6 +41,7 @@ How can we learn from data while protecting individuals' privacy? This course ad
   - Yan (Rice 542): Tuesday 2 - 3pm
   - (you can always email to request additional meeting or zoom meeting)
 - [Policy](policy.md)
+- Textbook: We don't need any textbooks, but if you like, scroll down and there're some books you can read.
 
 ## Grading
 
